@@ -1,4 +1,11 @@
 # basicvideostreamer
+![License: MIT](https://img.shields.io/github/license/jhnw/basicvideostreamer)
+[![Tests](https://github.com/JhnW/basicvideostreamer/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/JhnW/basicvideostreamer/actions/workflows/tests.yml)
+![GitHub issues](https://img.shields.io/github/issues/jhnw/basicvideostreamer)
+[![crates.io](https://img.shields.io/crates/v/basicvideostreamer.svg)](https://crates.io/crates/basicvideostreamer)
+[![Released API docs](https://docs.rs/basicvideostreamer/badge.svg)](https://docs.rs/httparse)
+![Crates.io - Download](https://img.shields.io/crates/d/basicvideostreamer)
+
 Simple Rust video streaming library using HTTP 1.1 model.
 
 The current version currently allows only jpg images to be sent using multipart content type from HTTP.
